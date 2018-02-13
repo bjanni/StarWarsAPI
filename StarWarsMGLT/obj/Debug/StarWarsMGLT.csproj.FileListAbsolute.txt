@@ -1,0 +1,22 @@
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.exe.config
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.csprojResolveAssemblyReference.cache
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.exe
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.pdb
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.exe
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.pdb
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\System.Net.Http.Formatting.dll
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\System.Net.Http.Formatting.xml
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\Newtonsoft.Json.dll
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\bin\Debug\Newtonsoft.Json.xml
+E:\KneatSolutions\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.csproj.CoreCompileInputs.cache
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.exe.config
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.exe
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\StarWarsMGLT.pdb
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\Newtonsoft.Json.dll
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\System.Net.Http.Formatting.dll
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\Newtonsoft.Json.xml
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\bin\Debug\System.Net.Http.Formatting.xml
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.csprojResolveAssemblyReference.cache
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.csproj.CoreCompileInputs.cache
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.exe
+E:\KneatSolutions-Janni Daniel Balraj\StarWarsMGLT\StarWarsMGLT\obj\Debug\StarWarsMGLT.pdb
